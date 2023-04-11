@@ -1,0 +1,17 @@
+commit 3de926820959f4e18e4408a236ce85afacd06282
+Author: Sonny Vang <socvang@ucdavis.edu>
+Date:   Mon Apr 10 22:39:50 2023 -0700
+
+    Added sonny's plans
+
+commit b78d451a5b12722eafe528aad3e79e90c3125def
+Author: elenalu0 <130110755+elenalu0@users.noreply.github.com>
+Date:   Mon Apr 10 15:32:48 2023 -0700
+
+    Create weekend_plans
+
+commit af9e7ce67387bd175f75b05c789a73f4a29debe3
+Author: elenalu0 <130110755+elenalu0@users.noreply.github.com>
+Date:   Mon Apr 10 15:24:33 2023 -0700
+
+    Initial commit
